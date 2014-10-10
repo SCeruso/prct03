@@ -6,3 +6,10 @@ Al ejecutarlo con el interprete a partir del fichero, primero
 se carga el fichero y luego se ejecuta cada instruccion una a una
 mientras que con el interprete interactivo se escriben las instrucciones
 y se ejecutan inmediatamente despues de que se escriben.
+
+¿Cuales son las diferencias entre la ejecucion del programa
+"Hola Mundo"con el interprete interactivo y con pry? 
+
+Con pry se puede en tiempo de ejecucion definir nuevas variables,
+cambiar metodos, definir funciones, etc... y luego continuar con 
+el programa.
